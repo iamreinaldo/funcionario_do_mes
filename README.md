@@ -11,5 +11,5 @@
 <li>Animações na página de vencedores</li>
 <li>Sistema de login</li>
 <li>Criação de layouts personalizados por empresa</li>
-
+</ol>
 <p>Por enquanto é só, vamos iniciar utilizando REACT, NODEJS, POWERBI E MONGODB</p>
