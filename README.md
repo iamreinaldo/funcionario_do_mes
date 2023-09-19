@@ -12,4 +12,5 @@
 <li>Sistema de login</li>
 <li>Criação de layouts personalizados por empresa</li>
 </ol>
+<p>Esse projeto será importante para o desenvolvimento das nossas habilidades como desenvolvedores WEB, sendo também possível ser utilizado no ERUDA, como objeto de estudo ou até como venda. </p>
 <p>Por enquanto é só, vamos iniciar utilizando REACT, NODEJS, POWERBI E MONGODB</p>
