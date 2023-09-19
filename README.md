@@ -1,4 +1,4 @@
-                        <h1>Bem vindo!!!</h1>
+<h1>Bem vindo!!!</h1>
 
 <h2>NOME DA APLICAÇÃO</h2>
 <h3>Aplicação dedicada a controle de funcinário do mês</h3>
