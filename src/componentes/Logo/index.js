@@ -1,13 +1,24 @@
-import './estilo.css'
 import logo from '../../imagens/logo_branca.svg'
+import styled from 'styled-components'
+
+
+const LogoConteiner = styled.div`
+    display: flex;
+    align-items: center;
+`
+
+const LogoImage = styled.img`
+    margin-right: 10px;
+    width: 300px;
+`
 
 
 
 function Logo(){
     return(
-        <div className='logo'>
-            <img src={logo} alt='logo' className='LogoImg'></img>
-        </div>
+        <LogoConteiner>
+            <LogoImage src={logo} alt='logo' />
+        </LogoConteiner>
     )
 }
 
