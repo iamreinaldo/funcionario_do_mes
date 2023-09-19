@@ -8,6 +8,7 @@ function Header(){
         <header className='AppHeader'>
             <Logo/>
             <OpcoesHeader/>
+            <title>Funcionário do mês - Newnet</title>
         </header>
     )
 }

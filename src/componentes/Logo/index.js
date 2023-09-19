@@ -1,5 +1,5 @@
 import './estilo.css'
-import logo from '../../imagens/logo.svg'
+import logo from '../../imagens/logo_branca.svg'
 
 
 
