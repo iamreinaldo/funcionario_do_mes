@@ -1,0 +1,15 @@
+.opcoesHeader{
+    display: flex;
+}
+
+.opcao{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 0 35px;
+    cursor: pointer;
+    min-height: 120px;
+}

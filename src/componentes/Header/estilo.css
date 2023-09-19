@@ -1,0 +1,5 @@
+.AppHeader{
+    background-image: linear-gradient(90deg, #002F52 35%, #326589);
+    display: flex;
+    justify-content: center;
+}
