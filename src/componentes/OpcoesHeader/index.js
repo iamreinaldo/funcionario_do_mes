@@ -1,29 +1,19 @@
 import styled from 'styled-components'
+import NavBar from '../Navbar/navbar'
+import Graficos from '../../pages/graficos'
+import Votacao from '../../pages/votacao'
+import Home from '../../pages/home'
 
-const textOpcoes = ['home','gráficos','votação']
 const HeaderOptions = styled.ul`
     display: flex;
+    color: white
 `
-
-const Options = styled.li`
-    font-size: 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 100%;
-    padding: 0 35px;
-    cursor: pointer;
-    min-height: 120px;
-    color: #fff;
-`
-
-
 
 function OpcoesHeader(){
+
     return(
         <HeaderOptions>
-            {textOpcoes.map((texto) => (<Options><p>{texto}</p></Options>) ) }
+            <NavBar/>
         </HeaderOptions>
     )
 }

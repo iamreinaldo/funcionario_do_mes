@@ -1,5 +1,9 @@
 import Header from './componentes/Header';
 import styled from 'styled-components';
+import LinkComponent from './componentes/Navbar/linkComponent';
+import Rodape from './componentes/footer';
+
+
 
 const AppConteiner = styled.div`
   width: 100vw;
@@ -16,6 +20,8 @@ function App() {
   return (
     <AppConteiner>
       <Header/>
+      <LinkComponent />
+      <Rodape />
     </AppConteiner>
   );
 }
